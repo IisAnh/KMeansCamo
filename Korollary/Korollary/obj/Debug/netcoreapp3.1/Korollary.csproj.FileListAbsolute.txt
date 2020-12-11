@@ -1,0 +1,19 @@
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Korollary.exe
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Korollary.deps.json
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Korollary.runtimeconfig.json
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Korollary.runtimeconfig.dev.json
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Korollary.dll
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Korollary.pdb
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.csprojAssemblyReference.cache
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.CamoUIForm.resources
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.Properties.Resources.resources
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.csproj.GenerateResource.cache
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.AssemblyInfoInputs.cache
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.AssemblyInfo.cs
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.csproj.CoreCompileInputs.cache
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.dll
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.pdb
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\obj\Debug\netcoreapp3.1\Korollary.genruntimeconfig.cache
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Haskell Programs\tester.exe
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Haskell Programs\tester2.exe
+C:\Users\Anh Nguyen\source\repos\Korollary\Korollary\bin\Debug\netcoreapp3.1\Haskell Programs\Kmeans.exe
